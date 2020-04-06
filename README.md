@@ -1,2 +1,2 @@
-# Artificial-intelligence
-Artificial intelligent project
+# Artificial-intelligence project
+price estimation of used car.
